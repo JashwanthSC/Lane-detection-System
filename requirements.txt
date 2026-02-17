@@ -1,0 +1,15 @@
+ opencv-python==4.8.1.78
+opencv-contrib-python==4.8.1.78
+numpy==1.24.3
+matplotlib==3.7.2
+scipy==1.11.2
+pandas==2.0.3
+pillow==10.0.0
+
+# Optional: For GPU acceleration with CUDA
+# opencv-contrib-python-headless==4.8.1.78
+# cupy-cuda11x==12.2.0  # Replace with your CUDA version
+
+# Optional: For advanced lane detection
+# torch==2.0.1
+# torchvision==0.15.2
